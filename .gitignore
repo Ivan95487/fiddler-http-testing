@@ -1,0 +1,8 @@
+# Файлы сессий Fiddler и HAR могут содержать токены, cookies и пароли
+*.saz
+*.farx
+*.har
+
+# Системные файлы
+.DS_Store
+Thumbs.db
