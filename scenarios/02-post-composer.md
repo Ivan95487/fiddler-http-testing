@@ -70,12 +70,3 @@
   - Открытый вопрос: в Overview размер тела запроса указан как 0 B, хотя `Content-Length` равен 102. Причину не выяснил.
 - **Статус:** Pass
 
-## Скриншоты
-
-![Composer: тело запроса и тело ответа](../screenshots/02-post-composer.png)
-
-![Composer: заголовки запроса и ответа](../screenshots/02-post-headers.png)
-
-![Overview: тайминги и размеры запроса POST](../screenshots/02-post-overview.png)
-
-![Проверка GET /posts/101](../screenshots/02-get-101.png)
